@@ -1,6 +1,5 @@
 # Proj-Loan-IBM
-In this project some classification algorithms are applied to this data set.
-
+In this project some classification algorithms are applied to this data set to check the Loan status (Whether a loan is paid off on in collection).
 We load a dataset using Pandas library, and apply the following algorithms, and find the best one for this specific dataset by accuracy evaluation methods
 Training the set to build an accurate model. Then using the test set to report the accuracy of the model.
 The following algorithm are used:
